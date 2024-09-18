@@ -1,0 +1,10 @@
+[
+    {
+        "username": "admin",
+        "email": "admin@mail.com",
+        "password": "limabiji",
+        "role": "Admin",
+        "phoneNumber": "08123456789",
+        "address": "Jl. Raya"
+    }
+]

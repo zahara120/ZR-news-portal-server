@@ -1,0 +1,191 @@
+[
+    {
+        "title": "Tech Trends: Innovations Shaping the Future",
+        "content": "Suspendisse potenti. Integer lobortis ante eu arcu ultrices.",
+        "imgUrl": "https://nextui-docs-v2.vercel.app/images/fruit-1.jpeg",
+        "createdAt": "2024-04-10",
+        "updatedAt": "2024-04-12",
+        "CategoryId": 1,
+        "UserId": 1
+    },
+    {
+        "title": "Healthy Living: Tips for a Balanced Lifestyle",
+        "content": "Curabitur vel sapien nec nulla hendrerit consequat.",
+        "imgUrl": "https://nextui-docs-v2.vercel.app/images/fruit-1.jpeg",
+        "createdAt": "2024-06-15",
+        "updatedAt": "2024-06-20",
+        "CategoryId": 3,
+        "UserId": 1
+    },
+    {
+        "title": "Global Travel: Top Destinations for 2024",
+        "content": "Mauris non ante eu arcu varius.",
+        "imgUrl": "https://nextui-docs-v2.vercel.app/images/fruit-1.jpeg",
+        "createdAt": "2024-05-22",
+        "updatedAt": "2024-05-25",
+        "CategoryId": 2,
+        "UserId": 1
+    },
+    {
+        "title": "The Future of AI: What to Expect",
+        "content": "Phasellus fringilla orci sed elit consequat.",
+        "imgUrl": "https://nextui-docs-v2.vercel.app/images/fruit-1.jpeg",
+        "createdAt": "2024-07-01",
+        "updatedAt": "2024-07-05",
+        "CategoryId": 1,
+        "UserId": 1
+    },
+    {
+        "title": "Home Improvement: Easy DIY Projects",
+        "content": "Vivamus luctus ligula at arcu fermentum.",
+        "imgUrl": "https://nextui-docs-v2.vercel.app/images/fruit-1.jpeg",
+        "createdAt": "2024-06-30",
+        "updatedAt": "2024-07-02",
+        "CategoryId": 4,
+        "UserId": 1
+    },
+    {
+        "title": "Fitness Goals: How to Stay Motivated",
+        "content": "Aenean volutpat sem at velit cursus.",
+        "imgUrl": "https://nextui-docs-v2.vercel.app/images/fruit-1.jpeg",
+        "createdAt": "2024-06-20",
+        "updatedAt": "2024-06-25",
+        "CategoryId": 3,
+        "UserId": 1
+    },
+    {
+        "title": "Artistic Expressions: Exploring Modern Art",
+        "content": "Nulla facilisi. Donec dapibus arcu at eros semper.",
+        "imgUrl": "https://nextui-docs-v2.vercel.app/images/fruit-1.jpeg",
+        "createdAt": "2024-07-10",
+        "updatedAt": "2024-07-12",
+        "CategoryId": 4,
+        "UserId": 1
+    },
+    {
+        "title": "Culinary Delights: Recipes for Every Occasion",
+        "content": "Aliquam erat volutpat. Fusce auctor arcu ut enim.",
+        "imgUrl": "https://nextui-docs-v2.vercel.app/images/fruit-1.jpeg",
+        "createdAt": "2024-07-15",
+        "updatedAt": "2024-07-17",
+        "CategoryId": 2,
+        "UserId": 1
+    },
+    {
+        "title": "Gardening 101: Tips for Beginners",
+        "content": "Mauris malesuada sem id dui pellentesque.",
+        "imgUrl": "https://nextui-docs-v2.vercel.app/images/fruit-1.jpeg",
+        "createdAt": "2024-05-30",
+        "updatedAt": "2024-06-01",
+        "CategoryId": 4,
+        "UserId": 1
+    },
+    {
+        "title": "The Science Behind Sleep: Improving Your Rest",
+        "content": "Vestibulum dapibus augue id bibendum suscipit.",
+        "imgUrl": "https://nextui-docs-v2.vercel.app/images/fruit-1.jpeg",
+        "createdAt": "2024-06-05",
+        "updatedAt": "2024-06-10",
+        "CategoryId": 3,
+        "UserId": 1
+    },
+    {
+        "title": "Entrepreneurship: Starting Your Own Business",
+        "content": "Curabitur et tellus sit amet urna accumsan.",
+        "imgUrl": "https://nextui-docs-v2.vercel.app/images/fruit-1.jpeg",
+        "createdAt": "2024-07-08",
+        "updatedAt": "2024-07-10",
+        "CategoryId": 1,
+        "UserId": 1
+    },
+    {
+        "title": "Digital Marketing Strategies for 2024",
+        "content": "Sed suscipit ante nec libero auctor.",
+        "imgUrl": "https://nextui-docs-v2.vercel.app/images/fruit-1.jpeg",
+        "createdAt": "2024-06-25",
+        "updatedAt": "2024-06-27",
+        "CategoryId": 1,
+        "UserId": 1
+    },
+    {
+        "title": "Mindful Eating: Nutrition Tips for a Healthier Life",
+        "content": "Ut facilisis dolor ut nulla vehicula.",
+        "imgUrl": "https://nextui-docs-v2.vercel.app/images/fruit-1.jpeg",
+        "createdAt": "2024-07-12",
+        "updatedAt": "2024-07-14",
+        "CategoryId": 3,
+        "UserId": 1
+    },
+    {
+        "title": "The Rise of Remote Work: Trends and Insights",
+        "content": "Nullam dapibus turpis sit amet nunc ultrices.",
+        "imgUrl": "https://nextui-docs-v2.vercel.app/images/fruit-1.jpeg",
+        "createdAt": "2024-05-18",
+        "updatedAt": "2024-05-22",
+        "CategoryId": 1,
+        "UserId": 1
+    },
+    {
+        "title": "Sustainable Living: Simple Changes for a Greener Planet",
+        "content": "Vestibulum ac massa non metus interdum.",
+        "imgUrl": "https://nextui-docs-v2.vercel.app/images/fruit-1.jpeg",
+        "createdAt": "2024-06-10",
+        "updatedAt": "2024-06-15",
+        "CategoryId": 4,
+        "UserId": 1
+    },
+    {
+        "title": "Exploring Different Cuisines: A Culinary Adventure",
+        "content": "Phasellus a lorem nec orci fermentum.",
+        "imgUrl": "https://nextui-docs-v2.vercel.app/images/fruit-1.jpeg",
+        "createdAt": "2024-07-05",
+        "updatedAt": "2024-07-08",
+        "CategoryId": 2,
+        "UserId": 1
+    },
+    {
+        "title": "Mindful Eating: Nutrition Tips for a Healthier Life",
+        "content": "Ut facilisis dolor ut nulla vehicula.",
+        "imgUrl": "https://nextui-docs-v2.vercel.app/images/fruit-1.jpeg",
+        "createdAt": "2024-07-12",
+        "updatedAt": "2024-07-14",
+        "CategoryId": 3,
+        "UserId": 1
+    },
+    {
+        "title": "The Rise of Remote Work: Trends and Insights",
+        "content": "Nullam dapibus turpis sit amet nunc ultrices.",
+        "imgUrl": "https://nextui-docs-v2.vercel.app/images/fruit-1.jpeg",
+        "createdAt": "2024-05-18",
+        "updatedAt": "2024-05-22",
+        "CategoryId": 1,
+        "UserId": 1
+    },
+    {
+        "title": "Sustainable Living: Simple Changes for a Greener Planet",
+        "content": "Vestibulum ac massa non metus interdum.",
+        "imgUrl": "https://nextui-docs-v2.vercel.app/images/fruit-1.jpeg",
+        "createdAt": "2024-06-10",
+        "updatedAt": "2024-06-15",
+        "CategoryId": 4,
+        "UserId": 1
+    },
+    {
+        "title": "Exploring Different Cuisines: A Culinary Adventure",
+        "content": "Phasellus a lorem nec orci fermentum.",
+        "imgUrl": "https://nextui-docs-v2.vercel.app/images/fruit-1.jpeg",
+        "createdAt": "2024-07-05",
+        "updatedAt": "2024-07-08",
+        "CategoryId": 2,
+        "UserId": 1
+    },
+    {
+        "title": "Exploring Different Cuisines: A Culinary Adventure",
+        "content": "Phasellus a lorem nec orci fermentum.",
+        "imgUrl": "https://nextui-docs-v2.vercel.app/images/fruit-1.jpeg",
+        "createdAt": "2024-07-05",
+        "updatedAt": "2024-07-08",
+        "CategoryId": 2,
+        "UserId": 1
+    }
+]
